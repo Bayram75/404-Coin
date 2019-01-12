@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About JunsonMingChanCoin</source>
+        <source>About 404</source>
         <translation>O BTestcoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;JunsonMingChanCoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;404&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;404u&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</source>
+Copyright © 2014 The 404 developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</translation>
+Copyright © 2014 The 404 developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your JunsonMingChanCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše JunsonMingChanCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your 404 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše 404 adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a JunsonMingChanCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto JunsonMingChanCoin adresu</translation>
+        <source>Sign a message to prove you own a 404 address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto 404 adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified JunsonMingChanCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou JunsonMingChanCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified 404 address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou 404 adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>JunsonMingChanCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>JunsonMingChanCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>404 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>404 sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about JunsonMingChanCoin</source>
-        <translation>Zobraziť informácie o JunsonMingChanCoin</translation>
+        <source>Show information about 404</source>
+        <translation>Zobraziť informácie o 404</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a JunsonMingChanCoin address</source>
-        <translation>Poslať mince na JunsonMingChanCoin adresu</translation>
+        <source>Send coins to a 404 address</source>
+        <translation>Poslať mince na 404 adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for JunsonMingChanCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre JunsonMingChanCoin</translation>
+        <source>Modify configuration options for 404</source>
+        <translation>Upraviť možnosti konfigurácie pre 404</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About JunsonMingChanCoin</source>
-        <translation>&amp;O JunsonMingChanCoin</translation>
+        <source>&amp;About 404</source>
+        <translation>&amp;O 404</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>JunsonMingChanCoin client</source>
-        <translation>JunsonMingChanCoin klient</translation>
+        <source>404 client</source>
+        <translation>404 klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to JunsonMingChanCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s JunsonMingChanCoin sieťov</numerusform><numerusform>%n aktívnych spojení s JunsonMingChanCoin sieťov</numerusform><numerusform>%n aktívnych spojení s JunsonMingChanCoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to 404 network</source>
+        <translation><numerusform>%n aktívne spojenie s 404 sieťov</numerusform><numerusform>%n aktívnych spojení s 404 sieťov</numerusform><numerusform>%n aktívnych spojení s 404 sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid JunsonMingChanCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou JunsonMingChanCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 404 address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou 404 adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. JunsonMingChanCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. JunsonMingChanCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. 404 can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. 404 už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid JunsonMingChanCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou JunsonMingChanCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 404 address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou 404 adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>JunsonMingChanCoin-Qt</source>
-        <translation>JunsonMingChanCoin-Qt</translation>
+        <source>404-Qt</source>
+        <translation>404-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start JunsonMingChanCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť JunsonMingChanCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start 404 after logging in to the system.</source>
+        <translation>Automaticky spustiť 404 po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start JunsonMingChanCoin on system login</source>
-        <translation>&amp;Spustiť JunsonMingChanCoin pri prihlásení do systému</translation>
+        <source>&amp;Start 404 on system login</source>
+        <translation>&amp;Spustiť 404 pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the JunsonMingChanCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta JunsonMingChanCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the 404 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta 404 na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the JunsonMingChanCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti JunsonMingChanCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the 404 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti 404 cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní JunsonMingChanCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 404.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní 404.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show JunsonMingChanCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť JunsonMingChanCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show 404 addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť 404 adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní JunsonMingChanCoin.</translation>
+        <source>This setting will take effect after restarting 404.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní 404.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JunsonMingChanCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou JunsonMingChanCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 404 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou 404 po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the JunsonMingChanCoin-Qt help message to get a list with possible JunsonMingChanCoin command-line options.</source>
-        <translation>Zobraziť JunsonMingChanCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku JunsonMingChanCoin.</translation>
+        <source>Show the 404-Qt help message to get a list with possible 404 command-line options.</source>
+        <translation>Zobraziť 404-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku 404.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>JunsonMingChanCoin - Debug window</source>
-        <translation>JunsonMingChanCoin - Ladiace okno</translation>
+        <source>404 - Debug window</source>
+        <translation>404 - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>JunsonMingChanCoin Core</source>
-        <translation>Jadro JunsonMingChanCoin</translation>
+        <source>404 Core</source>
+        <translation>Jadro 404</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,7 +1586,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the JunsonMingChanCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the 404 debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Otvorte BTestcoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
@@ -1596,7 +1596,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the JunsonMingChanCoin RPC console.</source>
+        <source>Welcome to the 404 RPC console.</source>
         <translation>Vitajte v konzole BTestcoin RPC.</translation>
     </message>
     <message>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Zadajte JunsonMingChanCoin adresu (napr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Zadajte 404 adresu (napr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid JunsonMingChanCoin address</source>
-        <translation>UPOZORNENIE: Neplatná JunsonMingChanCoin adresa</translation>
+        <source>WARNING: Invalid 404 address</source>
+        <translation>UPOZORNENIE: Neplatná 404 adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Zadajte JunsonMingChanCoin adresu (napr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Zadajte 404 adresu (napr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this JunsonMingChanCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto JunsonMingChanCoin adresu</translation>
+        <source>Sign the message to prove you own this 404 address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto 404 adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified JunsonMingChanCoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou JunsonMingChanCoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified 404 address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou 404 adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Zadajte JunsonMingChanCoin adresu (napr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Zadajte 404 adresu (napr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter JunsonMingChanCoin signature</source>
-        <translation>Zadajte JunsonMingChanCoin podpis</translation>
+        <source>Enter 404 signature</source>
+        <translation>Zadajte 404 podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>JunsonMingChanCoin version</source>
-        <translation>JunsonMingChanCoin verzia</translation>
+        <source>404 version</source>
+        <translation>404 verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or JunsonMingChanCoind</source>
-        <translation>Pošli príkaz na -server alebo JunsonMingChanCoind</translation>
+        <source>Send command to -server or 404d</source>
+        <translation>Pošli príkaz na -server alebo 404d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: JunsonMingChanCoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: JunsonMingChanCoin.conf)</translation>
+        <source>Specify configuration file (default: 404.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: 404.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: JunsonMingChanCoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: JunsonMingChanCoind.pid)</translation>
+        <source>Specify pid file (default: 404d.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: 404d.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JunsonMingChanCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny JunsonMingChanCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 404 will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny 404 nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  JunsonMingChanCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. JunsonMingChanCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  404 is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. 404 už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of JunsonMingChanCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu JunsonMingChanCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 404</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu 404</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart JunsonMingChanCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte JunsonMingChanCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart 404 to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte 404 k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. JunsonMingChanCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. JunsonMingChanCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. 404 is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. 404 je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About JunsonMingChanCoin</source>
-        <translation>О JunsonMingChanCoin</translation>
+        <source>About 404</source>
+        <translation>О 404</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;404&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;404&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</source>
+Copyright © 2014 The 404 developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики JunsonMingChanCoin</translation>
+Все права защищены © 2014 Разработчики 404</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your JunsonMingChanCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your 404 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a JunsonMingChanCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом JunsonMingChanCoin</translation>
+        <source>Sign a message to prove you own a 404 address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом 404</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified JunsonMingChanCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом JunsonMingChanCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified 404 address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом 404</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>JunsonMingChanCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>404 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about JunsonMingChanCoin</source>
-        <translation>Показать информацию о JunsonMingChanCoin&apos;е</translation>
+        <source>Show information about 404</source>
+        <translation>Показать информацию о 404&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a JunsonMingChanCoin address</source>
-        <translation>Отправить монеты на указанный адрес JunsonMingChanCoin</translation>
+        <source>Send coins to a 404 address</source>
+        <translation>Отправить монеты на указанный адрес 404</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for JunsonMingChanCoin</source>
-        <translation>Изменить параметры конфигурации JunsonMingChanCoin</translation>
+        <source>Modify configuration options for 404</source>
+        <translation>Изменить параметры конфигурации 404</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About JunsonMingChanCoin</source>
-        <translation>&amp;О JunsonMingChanCoin</translation>
+        <source>&amp;About 404</source>
+        <translation>&amp;О 404</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>JunsonMingChanCoin client</source>
-        <translation>JunsonMingChanCoin клиент</translation>
+        <source>404 client</source>
+        <translation>404 клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to JunsonMingChanCoin network</source>
+        <source>%n active connection(s) to 404 network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid JunsonMingChanCoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом JunsonMingChanCoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 404 address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом 404 или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. JunsonMingChanCoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. JunsonMingChanCoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. 404 can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. 404 не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid JunsonMingChanCoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным JunsonMingChanCoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 404 address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным 404-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>JunsonMingChanCoin-Qt</source>
-        <translation>JunsonMingChanCoin-Qt</translation>
+        <source>404-Qt</source>
+        <translation>404-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start JunsonMingChanCoin after logging in to the system.</source>
-        <translation>Автоматически запускать JunsonMingChanCoin после входа в систему</translation>
+        <source>Automatically start 404 after logging in to the system.</source>
+        <translation>Автоматически запускать 404 после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start JunsonMingChanCoin on system login</source>
-        <translation>&amp;Запускать JunsonMingChanCoin при входе в систему</translation>
+        <source>&amp;Start 404 on system login</source>
+        <translation>&amp;Запускать 404 при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the JunsonMingChanCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для JunsonMingChanCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the 404 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для 404-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the JunsonMingChanCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети JunsonMingChanCoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the 404 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети 404 через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска JunsonMingChanCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 404.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска 404.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show JunsonMingChanCoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса JunsonMingChanCoin в списке транзакций.</translation>
+        <source>Whether to show 404 addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса 404 в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска JunsonMingChanCoin</translation>
+        <source>This setting will take effect after restarting 404.</source>
+        <translation>Эта настройка вступит в силу после перезапуска 404</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,8 +1322,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JunsonMingChanCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью JunsonMingChanCoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 404 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью 404 после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the JunsonMingChanCoin-Qt help message to get a list with possible JunsonMingChanCoin command-line options.</source>
-        <translation>Показать помощь по JunsonMingChanCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the 404-Qt help message to get a list with possible 404 command-line options.</source>
+        <translation>Показать помощь по 404-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>JunsonMingChanCoin - Debug window</source>
-        <translation>JunsonMingChanCoin - Окно отладки</translation>
+        <source>404 - Debug window</source>
+        <translation>404 - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>JunsonMingChanCoin Core</source>
-        <translation>Ядро JunsonMingChanCoin</translation>
+        <source>404 Core</source>
+        <translation>Ядро 404</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the JunsonMingChanCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл JunsonMingChanCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the 404 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл 404 из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the JunsonMingChanCoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль JunsonMingChanCoin.</translation>
+        <source>Welcome to the 404 RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль 404.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Введите JunsonMingChanCoin-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Введите 404-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid JunsonMingChanCoin address</source>
+        <source>WARNING: Invalid 404 address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Введите JunsonMingChanCoin-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Введите 404-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this JunsonMingChanCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом JunsonMingChanCoin</translation>
+        <source>Sign the message to prove you own this 404 address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом 404</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2009,8 +2009,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified JunsonMingChanCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом JunsonMingChanCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified 404 address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом 404</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Введите адрес JunsonMingChanCoin (напр. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Введите адрес 404 (напр. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter JunsonMingChanCoin signature</source>
-        <translation>Введите подпись JunsonMingChanCoin</translation>
+        <source>Enter 404 signature</source>
+        <translation>Введите подпись 404</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>JunsonMingChanCoin version</source>
+        <source>404 version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or JunsonMingChanCoind</source>
-        <translation>Отправить команду на -server или JunsonMingChanCoind</translation>
+        <source>Send command to -server or 404d</source>
+        <translation>Отправить команду на -server или 404d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,13 +2632,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: JunsonMingChanCoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: JunsonMingChanCoin.conf)</translation>
+        <source>Specify configuration file (default: 404.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: 404.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: JunsonMingChanCoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: JunsonMingChanCoind.pid)</translation>
+        <source>Specify pid file (default: 404d.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: 404d.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JunsonMingChanCoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, JunsonMingChanCoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 404 will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, 404 будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2977,13 +2977,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  JunsonMingChanCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  404 is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot;
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of JunsonMingChanCoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию JunsonMingChanCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 404</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию 404</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart JunsonMingChanCoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите JunsonMingChanCoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart 404 to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите 404 для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot;
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. JunsonMingChanCoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, JunsonMingChanCoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. 404 is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, 404 уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About JunsonMingChanCoin</source>
+        <source>About 404</source>
         <translation>Vad du behöver veta om BTestcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;404&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;404&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</source>
+Copyright © 2014 The 404 developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</translation>
+Copyright © 2014 The 404 developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your JunsonMingChanCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina JunsonMingChanCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your 404 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina 404 adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a JunsonMingChanCoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger JunsonMingChanCoin adressen</translation>
+        <source>Sign a message to prove you own a 404 address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger 404 adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified JunsonMingChanCoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik JunsonMingChanCoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified 404 address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik 404 adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,7 +264,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>JunsonMingChanCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>404 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>BTestcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about JunsonMingChanCoin</source>
-        <translation>Visa information om JunsonMingChanCoin</translation>
+        <source>Show information about 404</source>
+        <translation>Visa information om 404</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a JunsonMingChanCoin address</source>
-        <translation>Skicka coins till en JunsonMingChanCoin adress</translation>
+        <source>Send coins to a 404 address</source>
+        <translation>Skicka coins till en 404 adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for JunsonMingChanCoin</source>
-        <translation>Modifiera konfigurations-alternativ för JunsonMingChanCoin</translation>
+        <source>Modify configuration options for 404</source>
+        <translation>Modifiera konfigurations-alternativ för 404</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About JunsonMingChanCoin</source>
-        <translation>&amp;Om JunsonMingChanCoin</translation>
+        <source>&amp;About 404</source>
+        <translation>&amp;Om 404</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>JunsonMingChanCoin client</source>
-        <translation>JunsonMingChanCoin klient</translation>
+        <source>404 client</source>
+        <translation>404 klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to JunsonMingChanCoin network</source>
-        <translation><numerusform>%n aktiv anslutning till JunsonMingChanCoin nätverket</numerusform><numerusform>%n aktiva anslutning till JunsonMingChanCoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to 404 network</source>
+        <translation><numerusform>%n aktiv anslutning till 404 nätverket</numerusform><numerusform>%n aktiva anslutning till 404 nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid JunsonMingChanCoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig JunsonMingChanCoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 404 address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig 404 adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,7 +720,7 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. JunsonMingChanCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. 404 can no longer continue safely and will quit.</source>
         <translation>Ett fatalt fel uppstod. BTestcoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
@@ -1054,7 +1054,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid JunsonMingChanCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid 404 address.</source>
         <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BTestcoin adress.</translation>
     </message>
     <message>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>JunsonMingChanCoin-Qt</source>
-        <translation>JunsonMingChanCoin-Qt</translation>
+        <source>404-Qt</source>
+        <translation>404-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,12 +1146,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start JunsonMingChanCoin after logging in to the system.</source>
+        <source>Automatically start 404 after logging in to the system.</source>
         <translation>Starta BTestcoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start JunsonMingChanCoin on system login</source>
+        <source>&amp;Start 404 on system login</source>
         <translation>&amp;Starta BTestcoin vid inloggning</translation>
     </message>
     <message>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the JunsonMingChanCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt JunsonMingChanCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the 404 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt 404 klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the JunsonMingChanCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till JunsonMingChanCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the 404 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till 404 nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av JunsonMingChanCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 404.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av 404.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show JunsonMingChanCoin addresses in the transaction list or not.</source>
-        <translation>Om JunsonMingChanCoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show 404 addresses in the transaction list or not.</source>
+        <translation>Om 404 adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av JunsonMingChanCoin.</translation>
+        <source>This setting will take effect after restarting 404.</source>
+        <translation>Inställningen börjar gälla efter omstart av 404.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JunsonMingChanCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med JunsonMingChanCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 404 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med 404 nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the JunsonMingChanCoin-Qt help message to get a list with possible JunsonMingChanCoin command-line options.</source>
-        <translation>Visa JunsonMingChanCoin-Qt hjälp meddelandet för att få en lista över möjliga JunsonMingChanCoin kommandoradsalternativ.</translation>
+        <source>Show the 404-Qt help message to get a list with possible 404 command-line options.</source>
+        <translation>Visa 404-Qt hjälp meddelandet för att få en lista över möjliga 404 kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>JunsonMingChanCoin - Debug window</source>
-        <translation>JunsonMingChanCoin - Felsökningsfönster</translation>
+        <source>404 - Debug window</source>
+        <translation>404 - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>JunsonMingChanCoin Core</source>
-        <translation>JunsonMingChanCoin Core</translation>
+        <source>404 Core</source>
+        <translation>404 Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the JunsonMingChanCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna JunsonMingChanCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the 404 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna 404 felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the JunsonMingChanCoin RPC console.</source>
-        <translation>Välkommen till JunsonMingChanCoin RPC konsoll.</translation>
+        <source>Welcome to the 404 RPC console.</source>
+        <translation>Välkommen till 404 RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en JunsonMingChanCoin adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en 404 adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid JunsonMingChanCoin address</source>
-        <translation>VARNING: Ogiltig JunsonMingChanCoin adress</translation>
+        <source>WARNING: Invalid 404 address</source>
+        <translation>VARNING: Ogiltig 404 adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en JunsonMingChanCoin adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en 404 adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this JunsonMingChanCoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna JunsonMingChanCoin adressen</translation>
+        <source>Sign the message to prove you own this 404 address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna 404 adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified JunsonMingChanCoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna JunsonMingChanCoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified 404 address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna 404 adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en JunsonMingChanCoin adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en 404 adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter JunsonMingChanCoin signature</source>
-        <translation>Fyll i JunsonMingChanCoin signatur</translation>
+        <source>Enter 404 signature</source>
+        <translation>Fyll i 404 signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>JunsonMingChanCoin version</source>
-        <translation>JunsonMingChanCoin version</translation>
+        <source>404 version</source>
+        <translation>404 version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or JunsonMingChanCoind</source>
-        <translation>Skicka kommando till -server eller JunsonMingChanCoind</translation>
+        <source>Send command to -server or 404d</source>
+        <translation>Skicka kommando till -server eller 404d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: JunsonMingChanCoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: JunsonMingChanCoin.conf)</translation>
+        <source>Specify configuration file (default: 404.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: 404.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: JunsonMingChanCoind.pid)</source>
-        <translation>Ange pid filen (standard JunsonMingChanCoind.pid)</translation>
+        <source>Specify pid file (default: 404d.pid)</source>
+        <translation>Ange pid filen (standard 404d.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,7 +2801,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JunsonMingChanCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 404 will not work properly.</source>
         <translation>Varning: Kolla att din dators tid och datum är rätt. BTestcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;404 Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Varning&qu
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  JunsonMingChanCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  404 is probably already running.</source>
         <translation>Kan inte låsa datan i mappen %s. BTestcoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,12 +3173,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Varning&qu
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of JunsonMingChanCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of 404</source>
         <translation>Kunde inte ladda wallet.dat: En nyare version av BTestcoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart JunsonMingChanCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart 404 to complete</source>
         <translation>Plånboken måste skrivas om: Starta om BTestcoin för att slutföra</translation>
     </message>
     <message>
@@ -3248,7 +3248,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Varning&qu
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. JunsonMingChanCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. 404 is probably already running.</source>
         <translation>Kan inte binda till %s på denna dator. BTestcoin är sannolikt redan startad.</translation>
     </message>
     <message>

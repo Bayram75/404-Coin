@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About JunsonMingChanCoin</source>
-        <translation>O JunsonMingChanCoin</translation>
+        <source>About 404</source>
+        <translation>O 404</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;404&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;404&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</source>
+Copyright © 2014 The 404 developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your JunsonMingChanCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši JunsonMingChanCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your 404 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši 404 naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a JunsonMingChanCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva JunsonMingChanCoin naslova</translation>
+        <source>Sign a message to prove you own a 404 address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva 404 naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified JunsonMingChanCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim JunsonMingChanCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified 404 address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim 404 naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>JunsonMingChanCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>JunsonMingChanCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>404 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>404 se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about JunsonMingChanCoin</source>
-        <translation>Pokaži informacije o JunsonMingChanCoin</translation>
+        <source>Show information about 404</source>
+        <translation>Pokaži informacije o 404</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,12 +425,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a JunsonMingChanCoin address</source>
-        <translation>Pošlji kovance na JunsonMingChanCoin naslov</translation>
+        <source>Send coins to a 404 address</source>
+        <translation>Pošlji kovance na 404 naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for JunsonMingChanCoin</source>
+        <source>Modify configuration options for 404</source>
         <translation>Spremeni nastavitve za BTestcoin</translation>
     </message>
     <message>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About JunsonMingChanCoin</source>
-        <translation>&amp;O JunsonMingChanCoin</translation>
+        <source>&amp;About 404</source>
+        <translation>&amp;O 404</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>JunsonMingChanCoin client</source>
-        <translation>JunsonMingChanCoin program</translation>
+        <source>404 client</source>
+        <translation>404 program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to JunsonMingChanCoin network</source>
-        <translation><numerusform>%n aktivne povezave na JunsonMingChanCoin omrežje</numerusform><numerusform>%n aktivnih povezav na JunsonMingChanCoin omrežje</numerusform><numerusform>%n aktivnih povezav na JunsonMingChanCoin omrežje</numerusform><numerusform>%n aktivnih povezav na JunsonMingChanCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to 404 network</source>
+        <translation><numerusform>%n aktivne povezave na 404 omrežje</numerusform><numerusform>%n aktivnih povezav na 404 omrežje</numerusform><numerusform>%n aktivnih povezav na 404 omrežje</numerusform><numerusform>%n aktivnih povezav na 404 omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid JunsonMingChanCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega JunsonMingChanCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 404 address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega 404 naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. JunsonMingChanCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program JunsonMingChanCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. 404 can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program 404 se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid JunsonMingChanCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven JunsonMingChanCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 404 address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven 404 naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>JunsonMingChanCoin-Qt</source>
-        <translation>JunsonMingChanCoin-Qt</translation>
+        <source>404-Qt</source>
+        <translation>404-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start JunsonMingChanCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi JunsonMingChanCoin ob zagonu sistema.</translation>
+        <source>Automatically start 404 after logging in to the system.</source>
+        <translation>Avtomatično zaženi 404 ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start JunsonMingChanCoin on system login</source>
-        <translation>&amp;Zaženi JunsonMingChanCoin ob prijavi v sistem</translation>
+        <source>&amp;Start 404 on system login</source>
+        <translation>&amp;Zaženi 404 ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the JunsonMingChanCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za JunsonMingChanCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the 404 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za 404 program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the JunsonMingChanCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na JunsonMingChanCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the 404 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na 404 omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu JunsonMingChanCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 404.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu 404 aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show JunsonMingChanCoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza JunsonMingChanCoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show 404 addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza 404 naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu JunsonMingChanCoin aplikacije</translation>
+        <source>This setting will take effect after restarting 404.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu 404 aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JunsonMingChanCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z JunsonMingChanCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 404 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z 404 omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the JunsonMingChanCoin-Qt help message to get a list with possible JunsonMingChanCoin command-line options.</source>
-        <translation>Prikaži JunsonMingChanCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice JunsonMingChanCoin aplikacije</translation>
+        <source>Show the 404-Qt help message to get a list with possible 404 command-line options.</source>
+        <translation>Prikaži 404-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice 404 aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>JunsonMingChanCoin - Debug window</source>
-        <translation>JunsonMingChanCoin - okno za odpravljanje napak</translation>
+        <source>404 - Debug window</source>
+        <translation>404 - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>JunsonMingChanCoin Core</source>
-        <translation>JunsonMingChanCoin jedro</translation>
+        <source>404 Core</source>
+        <translation>404 jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the JunsonMingChanCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri JunsonMingChanCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the 404 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri 404 datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the JunsonMingChanCoin RPC console.</source>
-        <translation>Dobrodošli v JunsonMingChanCoin RPC konzoli.</translation>
+        <source>Welcome to the 404 RPC console.</source>
+        <translation>Dobrodošli v 404 RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite JunsonMingChanCoin naslov (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite 404 naslov (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid JunsonMingChanCoin address</source>
-        <translation>OPOZORILO: Neveljaven JunsonMingChanCoin naslov</translation>
+        <source>WARNING: Invalid 404 address</source>
+        <translation>OPOZORILO: Neveljaven 404 naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite JunsonMingChanCoin naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite 404 naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this JunsonMingChanCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva JunsonMingChanCoin naslova</translation>
+        <source>Sign the message to prove you own this 404 address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva 404 naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified JunsonMingChanCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim JunsonMingChanCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified 404 address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim 404 naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite JunsonMingChanCoin naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite 404 naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter JunsonMingChanCoin signature</source>
-        <translation>Vnesite JunsonMingChanCoin podpis</translation>
+        <source>Enter 404 signature</source>
+        <translation>Vnesite 404 podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>JunsonMingChanCoin version</source>
-        <translation>JunsonMingChanCoin različica</translation>
+        <source>404 version</source>
+        <translation>404 različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,7 +2623,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or JunsonMingChanCoind</source>
+        <source>Send command to -server or 404d</source>
         <translation>Pošlji ukaz na -server ali Testoind</translation>
     </message>
     <message>
@@ -2643,13 +2643,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: JunsonMingChanCoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: JunsonMingChanCoin.conf)</translation>
+        <source>Specify configuration file (default: 404.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: 404.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: JunsonMingChanCoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: JunsonMingChanCoin.pid)</translation>
+        <source>Specify pid file (default: 404d.pid)</source>
+        <translation>Določi pid datoteko (privzeto: 404.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JunsonMingChanCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno JunsonMingChanCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 404 will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno 404 ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;404 Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alarm&quot; a
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  JunsonMingChanCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija JunsonMingChanCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  404 is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija 404 je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alarm&quot; a
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of JunsonMingChanCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo JunsonMingChanCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 404</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo 404</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart JunsonMingChanCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite JunsonMingChanCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart 404 to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite 404 za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alarm&quot; a
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. JunsonMingChanCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča JunsonMingChanCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. 404 is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča 404 aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

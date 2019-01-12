@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About JunsonMingChanCoin</source>
-        <translation>Over JunsonMingChanCoin</translation>
+        <source>About 404</source>
+        <translation>Over 404</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;JunsonMingChanCoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;404&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;404&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The JunsonMingChanCoin developers</source>
+Copyright © 2014 The 404 developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De JunsonMingChanCoin ontwikkelaars</translation>
+Copyright © 2014 De 404 ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your JunsonMingChanCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou JunsonMingChanCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your 404 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou 404 adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a JunsonMingChanCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een JunsonMingChanCoin adres bezit.</translation>
+        <source>Sign a message to prove you own a 404 address</source>
+        <translation>Teken een bericht om te bewijzen dat je een 404 adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified JunsonMingChanCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek JunsonMingChanCoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified 404 address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek 404 adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>JunsonMingChanCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>JunsonMingChanCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>404 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>404 zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about JunsonMingChanCoin</source>
-        <translation>Toon informatie over JunsonMingChanCoin</translation>
+        <source>Show information about 404</source>
+        <translation>Toon informatie over 404</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a JunsonMingChanCoin address</source>
-        <translation>Verstuur munten naar een JunsonMingChanCoin adres</translation>
+        <source>Send coins to a 404 address</source>
+        <translation>Verstuur munten naar een 404 adres</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for JunsonMingChanCoin</source>
-        <translation>Verander configuratie opties voor JunsonMingChanCoin</translation>
+        <source>Modify configuration options for 404</source>
+        <translation>Verander configuratie opties voor 404</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-200"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About JunsonMingChanCoin</source>
-        <translation>&amp;Over JunsonMingChanCoin</translation>
+        <source>&amp;About 404</source>
+        <translation>&amp;Over 404</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>JunsonMingChanCoin client</source>
-        <translation>JunsonMingChanCoin client</translation>
+        <source>404 client</source>
+        <translation>404 client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to JunsonMingChanCoin network</source>
-        <translation><numerusform>%n actieve verbinding naar JunsonMingChanCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar JunsonMingChanCoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to 404 network</source>
+        <translation><numerusform>%n actieve verbinding naar 404 netwerk</numerusform><numerusform>%n actieve verbindingen naar 404 netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid JunsonMingChanCoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig JunsonMingChanCoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 404 address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig 404 adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,7 +719,7 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. JunsonMingChanCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. 404 can no longer continue safely and will quit.</source>
         <translation>Een fatale fout . BTestcoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
@@ -1053,7 +1053,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid JunsonMingChanCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid 404 address.</source>
         <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig BTestcoin adres.</translation>
     </message>
     <message>
@@ -1072,8 +1072,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>JunsonMingChanCoin-Qt</source>
-        <translation>JunsonMingChanCoin-Qt</translation>
+        <source>404-Qt</source>
+        <translation>404-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,12 +1145,12 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start JunsonMingChanCoin after logging in to the system.</source>
+        <source>Automatically start 404 after logging in to the system.</source>
         <translation>Automatisch starten van BTestcoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start JunsonMingChanCoin on system login</source>
+        <source>&amp;Start 404 on system login</source>
         <translation>&amp;Start BTestcoin bij systeem aanmelding</translation>
     </message>
     <message>
@@ -1170,8 +1170,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the JunsonMingChanCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De JunsonMingChanCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the 404 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De 404 client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the JunsonMingChanCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het JunsonMingChanCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the 404 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het 404 netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na JunsonMingChanCoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 404.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na 404 opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show JunsonMingChanCoin addresses in the transaction list or not.</source>
-        <translation>JunsonMingChanCoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show 404 addresses in the transaction list or not.</source>
+        <translation>404 adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting JunsonMingChanCoin.</source>
-        <translation>Deze instelling word toegepast na een restart van JunsonMingChanCoin.</translation>
+        <source>This setting will take effect after restarting 404.</source>
+        <translation>Deze instelling word toegepast na een restart van 404.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the JunsonMingChanCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het JunsonMingChanCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 404 network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het 404 netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,7 +1552,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the JunsonMingChanCoin-Qt help message to get a list with possible JunsonMingChanCoin command-line options.</source>
+        <source>Show the 404-Qt help message to get a list with possible 404 command-line options.</source>
         <translation>Laat het BTestcoin-QT help bericht zien om een lijst te krijgen met mogelijke BTestcoin command-regel opties.</translation>
     </message>
     <message>
@@ -1572,13 +1572,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>JunsonMingChanCoin - Debug window</source>
+        <source>404 - Debug window</source>
         <translation>BTestcoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>JunsonMingChanCoin Core</source>
-        <translation>JunsonMingChanCoin Kern</translation>
+        <source>404 Core</source>
+        <translation>404 Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the JunsonMingChanCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het JunsonMingChanCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the 404 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het 404 debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the JunsonMingChanCoin RPC console.</source>
-        <translation>Welkom bij de JunsonMingChanCoin RPC console.</translation>
+        <source>Welcome to the 404 RPC console.</source>
+        <translation>Welkom bij de 404 RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,7 +1756,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation>Voeg een BTestcoin adres in (bijv. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
@@ -1856,7 +1856,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid JunsonMingChanCoin address</source>
+        <source>WARNING: Invalid 404 address</source>
         <translation>WAARSCHUWING: Ongeldig BTestcoin adres</translation>
     </message>
     <message>
@@ -1930,7 +1930,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation>Voeg een BTestcoin adres in (bijv. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
@@ -1991,8 +1991,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this JunsonMingChanCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een JunsonMingChanCoin adres bezit.</translation>
+        <source>Sign the message to prove you own this 404 address</source>
+        <translation>Teken een bericht om te bewijzen dat je een 404 adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified JunsonMingChanCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek JunsonMingChanCoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified 404 address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek 404 adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,7 +2034,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a JunsonMingChanCoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a 404 address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation>Voeg een BTestcoin adres in (bijv. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter JunsonMingChanCoin signature</source>
-        <translation>Voer JunsonMingChanCoin handtekening in</translation>
+        <source>Enter 404 signature</source>
+        <translation>Voer 404 handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>JunsonMingChanCoin version</source>
-        <translation>JunsonMingChanCoin versie</translation>
+        <source>404 version</source>
+        <translation>404 versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or JunsonMingChanCoind</source>
-        <translation>Verstuur commando naar -server of JunsonMingChanCoind</translation>
+        <source>Send command to -server or 404d</source>
+        <translation>Verstuur commando naar -server of 404d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: JunsonMingChanCoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: JunsonMingChanCoin.conf)</translation>
+        <source>Specify configuration file (default: 404.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: 404.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: JunsonMingChanCoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: JunsonMingChanCoin.conf)</translation>
+        <source>Specify pid file (default: 404d.pid)</source>
+        <translation>Selecteer pid bestand (standaard: 404.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong JunsonMingChanCoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is JunsonMingChanCoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 404 will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is 404 zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=JunsonMingChanCoinrpc
+rpcuser=404rpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = JunsonMingChanCoinrpc 
+rpcuser = 404rpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;JunsonMingChanCoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;404 Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3131,13 +3131,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;JunsonMingChanCoin Alert&qu
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  JunsonMingChanCoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. JunsonMingChanCoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  404 is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. 404 wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>JunsonMingChanCoin</source>
-        <translation>JunsonMingChanCoin</translation>
+        <source>404</source>
+        <translation>404</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3171,13 +3171,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;JunsonMingChanCoin Alert&qu
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of JunsonMingChanCoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van JunsonMingChanCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 404</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van 404</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart JunsonMingChanCoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart JunsonMingChanCoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart 404 to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart 404 om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3246,8 +3246,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;JunsonMingChanCoin Alert&qu
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. JunsonMingChanCoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. JunsonMingChanCoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. 404 is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. 404 is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>
